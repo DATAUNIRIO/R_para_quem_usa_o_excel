@@ -31,3 +31,14 @@ https://nacnudus.github.io/unpivotr/
 3. Common Excel Functions in R
 To find more information about how to use each of these R functions, type ?function (e.g. ?sum) in the RStudio Console, and you’ll be provided with comprehensive and clear R documentation. If you need even more information about an R function, type “how to use ___ function in R” or something similar into Google.
 
+
+3. Common SPSS Functions in R
+mostrar as funcoes do R para:
+recode in the same variable
+recode in diferent variable
+compute
+
+
+
+
+
