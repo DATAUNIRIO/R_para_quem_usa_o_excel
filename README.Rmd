@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Citar o post do IBPAD
 https://www.ibpad.com.br/blog/analise-de-dados/r-para-usuarios-de-excel/
-
+https://shotwell.ca/posts/r_for_excel_users/
 
 ## Recriando o procV no R (Recreating VLOOKUP in R)
 https://formalizedcuriosity.net/post/recreating-vlookup-in-r/
@@ -26,3 +26,8 @@ https://rpubs.com/acolumbus/how-to-use-r-with-excel
 
 
 https://nacnudus.github.io/unpivotr/
+
+
+3. Common Excel Functions in R
+To find more information about how to use each of these R functions, type ?function (e.g. ?sum) in the RStudio Console, and you’ll be provided with comprehensive and clear R documentation. If you need even more information about an R function, type “how to use ___ function in R” or something similar into Google.
+
