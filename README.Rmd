@@ -11,6 +11,16 @@ knitr::opts_chunk$set(echo = TRUE)
 ## registros para um futuro texto para os alunos da Unirio
 
 
+https://www.r-bloggers.com/tidyquant-v1-0-0-pivot-tables-vlookups-in-r/
+https://www.r-bloggers.com/r-for-excel-users-pivot-tables-vlookups-in-r/
+
+
+
+I’m pleased to announce the release of tidyquant version 1.0.0 that includes Excel in R (Pivot Tables, VLOOKUPs, Sum-Ifs, and 100+ Excel Functions). I’ve also integrated the FREE Tiingo API via riingo. There are a ton of new features that are covered in my ‘R for Excel Users Tutorial’ on Business Science_.
+Highlights: tidyquant 1.0.0
+
+
+
 ### Citar o post do IBPAD
 https://www.ibpad.com.br/blog/analise-de-dados/r-para-usuarios-de-excel/
 https://shotwell.ca/posts/r_for_excel_users/
@@ -23,6 +33,12 @@ https://www.sportscidata.com/how-to-rearrange-a-messy-excel-sheet-in-r/
 
 ## A Comprehensive Guide to Transitioning from Excel to R by Alyssa Columbus
 https://rpubs.com/acolumbus/how-to-use-r-with-excel
+
+## how-to-do-excel-vlookup-in-r-using-left_join-merge/
+https://www.r-bloggers.com/how-to-do-excel-vlookup-in-r-using-left_join-merge/
+
+
+
 
 
 https://nacnudus.github.io/unpivotr/
@@ -37,6 +53,8 @@ mostrar as funcoes do R para:
 recode in the same variable
 recode in diferent variable
 compute
+
+
 
 
 
