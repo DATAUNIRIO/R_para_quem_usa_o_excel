@@ -38,10 +38,17 @@ https://rpubs.com/acolumbus/how-to-use-r-with-excel
 https://www.r-bloggers.com/how-to-do-excel-vlookup-in-r-using-left_join-merge/
 
 
-
-
-
+# corrigindo no R os  dados confusos do excel
+https://cran.r-project.org/web/packages/tidyxl/vignettes/tidyxl.html
+https://rfortherestofus.com/2019/12/how-to-clean-messy-data-in-r/
+# cabeça das tabelas
 https://nacnudus.github.io/unpivotr/
+consertando o excel bagunçado com o R
+https://www.sportscidata.com/how-to-rearrange-a-messy-excel-sheet-in-r/
+https://www.r-bloggers.com/tidying-messy-excel-data-tidyxl/
+
+https://luisdva.github.io/rstats/unheadr-cat/
+
 
 
 3. Common Excel Functions in R
