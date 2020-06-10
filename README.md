@@ -1,7 +1,7 @@
 R para quem usa o excel
 ================
 
-## registros para um futuro texto para os alunos da Unirio
+## registros para um futuro livro para os alunos da Unirio
 
 <https://www.ibpad.com.br/blog/analise-de-dados/r-para-usuarios-de-excel/>
 
